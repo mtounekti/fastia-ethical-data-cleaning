@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Données brutes (non commitées)
+fichier-de-donnees-mixtes*.csv
+
+# OS
+.DS_Store
+Thumbs.db
